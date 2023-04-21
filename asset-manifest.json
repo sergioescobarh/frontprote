@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/frontprote/static/css/main.4fad2b16.css",
+    "main.js": "/frontprote/static/js/main.01de99bf.js",
+    "static/js/787.ad8f95bc.chunk.js": "/frontprote/static/js/787.ad8f95bc.chunk.js",
+    "static/media/pirlo.jpg": "/frontprote/static/media/pirlo.eebed58c9a3fe8aa97d9.jpg",
+    "index.html": "/frontprote/index.html",
+    "main.4fad2b16.css.map": "/frontprote/static/css/main.4fad2b16.css.map",
+    "main.01de99bf.js.map": "/frontprote/static/js/main.01de99bf.js.map",
+    "787.ad8f95bc.chunk.js.map": "/frontprote/static/js/787.ad8f95bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fad2b16.css",
+    "static/js/main.01de99bf.js"
+  ]
+}
